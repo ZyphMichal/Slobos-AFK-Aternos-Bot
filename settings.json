@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SplitzsMC.aternos.me",
+    "ip": "kelpfish.aternos.host:45071",
     "port": 45071,
     "version": "",
     "try-creative": false
